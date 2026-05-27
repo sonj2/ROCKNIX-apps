@@ -7,7 +7,7 @@ Some launchers use Arch Runimage or Alpine chroot environments and are gamepad-f
 
 # Installer/Menu via Terminal/SSH
 ```
-curl -L bit.ly/rockapps | bash
+curl -L https://github.com/sonj2/ROCKNIX-apps/raw/main/app/menu.sh | bash
 ```
 
 ## 🖥️ Desktop Mode
