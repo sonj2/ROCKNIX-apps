@@ -9,7 +9,7 @@ PORTS_DIR="/storage/roms/ports"
 PROFILE_DIR="/storage/.chiaki-ng"
 
 APP_URL="https://github.com/streetpea/chiaki-ng/releases/download/v1.9.9/chiaki-ng.AppImage_arm64"
-RUNTIME_URL="https://github.com/profork/ROCKNIX-apps/raw/main/chiaki/chiaki-runtime.tar.gz"
+RUNTIME_URL="https://github.com/sonj2/ROCKNIX-apps/raw/main/chiaki/chiaki-runtime.tar.gz"
 
 APPIMAGE_PATH="${APP_DIR}/ChiakiNG.AppImage"
 EXTRACT_DIR="${APP_DIR}/chiaki-extracted"
