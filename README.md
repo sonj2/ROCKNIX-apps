@@ -63,6 +63,16 @@ Caja GUI file manager with Engrampa archiver (zip, rar, 7zip, etc.) via Runimage
 
 ---
 
+## 🎮 Chaiki (PS4/PS5 Streamer)
+
+
+
+*Only seems to work on adreno devices SM8250/SM8550
+
+*Touch/kb or mouse/kb needed
+
+---
+
 ## 🌐 Firefox Browser
 
 *(Compatibility varies — works on SM8550/ODIN 2 and RK3588; does not work on RK3566. 4GB RAM minimum.)*
