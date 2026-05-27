@@ -1,17 +1,17 @@
 #!/bin/bash
-# Rocknix Firefox 139.0.4 Installer with automatic YouTube Leanback launcher
+# Rocknix Firefox 151.0.2 Installer with automatic YouTube Leanback launcher
 
 APP_DIR="/storage/Applications/firefox"
 PORTS_DIR="/storage/roms/ports"
 PROFILE_DIR="/storage/.firefox"
-FIREFOX_URL="https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/linux-aarch64/en-US/firefox-139.0.4.tar.xz"
-ARCHIVE_NAME="firefox-139.0.4.tar.xz"
+FIREFOX_URL="https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/linux-aarch64/en-US/firefox-151.0.2.tar.xz"
+ARCHIVE_NAME="firefox-151.0.2.tar.xz"
 GPTK_FILE="$PORTS_DIR/firefox.gptk"
 FIREFOX_LAUNCHER="$PORTS_DIR/Firefox.sh"
 YOUTUBE_LAUNCHER="$PORTS_DIR/YoutubeTV.sh"
 UA_PREF="$PROFILE_DIR/user.js"
 
-echo "📦 Installing Firefox 139.0.4 (Rocknix, aarch64 only)..."
+echo "📦 Installing Firefox 151.0.2 (Rocknix, aarch64 only)..."
 sleep 2
 
 # Step 1: Download and extract Firefox
@@ -70,7 +70,7 @@ chmod +x "$FIREFOX_LAUNCHER"
 
 
 
-echo "✅ Firefox 139.0.4 installed!"
+echo "✅ Firefox 151.0.2 installed!"
 echo "▶️ Launch Firefox from: $FIREFOX_LAUNCHER"
 echo "🎮 Exit with Start+Select"
 echo "Rockchip SOC users may need to switch to Panfrost video Driver"
