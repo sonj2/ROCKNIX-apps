@@ -15,8 +15,8 @@ GPTK_FULL="$PORTS_DIR/vacuumtube.gptk"            # full mapping
 GPTK_HOTKEY="$PORTS_DIR/vacuumtube_hotkey.gptk"   # hotkey-only mapping
 VACUUMTUBE_LAUNCHER="$PORTS_DIR/VacuumTube.sh"
 
-VACUUMTUBE_URL="https://github.com/shy1132/VacuumTube/releases/download/v1.3.15/VacuumTube-arm64.AppImage"
-RUNTIME_URL="https://github.com/profork/ROCKNIX-apps/releases/download/r1/chromium-runtime.tar.gz"
+VACUUMTUBE_URL="https://github.com/shy1132/VacuumTube/releases/download/v1.7.2/VacuumTube-arm64.AppImage"
+RUNTIME_URL="https://github.com/sonj2/ROCKNIX-apps/raw/main/chromium/chromium-runtime.tar.gz"
 
 VACUUMTUBE_APPIMAGE="${APP_DIR}/VacuumTube.AppImage"
 RUNTIME_TGZ="${APP_DIR}/chromium-runtime.tar.gz"
