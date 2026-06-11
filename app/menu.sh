@@ -58,7 +58,7 @@ RUN=(
   [20]="echo 'JeodC Pharos App (External Portmaster apps)'; curl -L https://github.com/sonj2/ROCKNIX-apps/raw/main/pharos.sh | bash"
   [21]="echo 'BatleXP G350 Audio Fix'; curl -L https://github.com/sonj2/ROCKNIX-apps/raw/main/batlexpg350/install_speaker_fix.sh | bash"
   [22]="echo 'pip & piptools'; curl -L https://github.com/sonj2/ROCKNIX-apps/raw/main/piptools.sh | bash"
-  [22]="echo 'FreeTube'; curl -L https://github.com/sonj2/ROCKNIX-apps/raw/main/freetube.sh | bash"
+  [23]="echo 'FreeTube'; curl -L https://github.com/sonj2/ROCKNIX-apps/raw/main/freetube.sh | bash"
   [99]="echo 'Exiting...'; exit 0"
 )
 
