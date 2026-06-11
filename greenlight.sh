@@ -12,7 +12,7 @@ PORTS_DIR="/storage/roms/ports"
 PROFILE_DIR="/storage/.greenlight"
 
 APPTGZ_URL="https://github.com/profork/ROCKNIX-apps/releases/download/r1/greenlight-233.aarch64.tar.gz"
-RUNTIME_URL="https://github.com/profork/ROCKNIX-apps/releases/download/r1/chromium-runtime.tar.gz"
+RUNTIME_URL="https://github.com/sonj2/ROCKNIX-apps/raw/main/chromium/chromium-runtime.tar.gz"
 
 APPTGZ_PATH="${APP_DIR}/greenlight.tar.gz"
 RUNTIME_TGZ="${APP_DIR}/chromium-runtime.tar.gz"
