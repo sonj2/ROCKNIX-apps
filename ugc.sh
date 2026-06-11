@@ -12,8 +12,8 @@ APP_DIR="/storage/Applications/ungoogled-chromium"
 PORTS_DIR="/storage/roms/ports"
 PROFILE_DIR="/storage/.ungoogled-chromium"
 
-APP_URL="https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/140.0.7339.185-1/ungoogled-chromium-140.0.7339.185-1-arm64.AppImage"
-RUNTIME_URL="https://github.com/profork/ROCKNIX-apps/releases/download/r1/chromium-runtime.tar.gz"
+APP_URL="https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/140.0.7339.185-1/ungoogled-chromium-149.0.7827.53-1-arm64.AppImage"
+RUNTIME_URL="https://github.com/sonj2/ROCKNIX-apps/raw/main/chromium/chromium-runtime.tar.gz"
 
 APPIMAGE_PATH="${APP_DIR}/UngoogledChromium.AppImage"
 EXTRACT_DIR="${APP_DIR}/ugc-extracted"
