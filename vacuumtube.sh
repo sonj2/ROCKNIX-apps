@@ -61,7 +61,7 @@ if [ -z "$RUNTIME_DIR_FOUND" ]; then
   exit 1
 fi
 RUNTIME_DIR_FOUND="$(dirname "$RUNTIME_DIR_FOUND")/.."
-rm -f "$RUNTIME_DIR_LINK"
+#rm -f "$RUNTIME_DIR_LINK"
 ln -snf "$RUNTIME_DIR_FOUND" "$RUNTIME_DIR_LINK"
 rm -f "$RUNTIME_TGZ"
 
